@@ -2,4 +2,4 @@
 
 Just place `ryner.zsh-theme` at `~/.oh-my-zsh/themes/` <br>
 
-Then add `ZSH_THEME="ryner"` to your ~/.zshrc (Attention! Do not allow to have more than 1 `ZHS_THEME` field in your ~/.zshrc file)
+Then add `ZSH_THEME="ryner"` to your `~/.zshrc` (Attention! Do not allow to have more than 1 `ZHS_THEME` field in your `~/.zshrc` file)
